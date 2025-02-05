@@ -46,11 +46,7 @@ O projeto final envolve a aplicação prática dos conceitos aprendidos ao longo
 - **Tarefa 1:** Para testar a teoria
 - **Tarefa 2:** Testes no aplicativo web Urban Scooter
 - **Tarefa 3:** Testes na API do aplicativo Urban Scooter
-- **Checklist do Projeto Final**
-- **Entrega das Tarefas**
 
----
 
-## Conclusão
-Este curso abrange as principais áreas da análise de QA, preparando o aluno para atuar como testador manual de software. O projeto final reforça os conceitos com aplicação prática.
+
 
