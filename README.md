@@ -1,52 +1,60 @@
 # 📌 Repositório de Projetos - Curso de QA Manual
 
-Este repositório contém os projetos desenvolvidos durante o curso de **Analista de QA Manual**, abordando conceitos fundamentais, design de testes, testes de aplicações web, testes de API e banco de dados.
+Este repositório contém os projetos desenvolvidos durante o curso de Analista de QA Manual. Ele abrange desde os fundamentos de testes de software até testes práticos em aplicações web, APIs e banco de dados.  
 
-## 🚀 Sprints e Projetos
+Cada sprint inclui conceitos, atividades práticas e um projeto aplicado para reforçar os aprendizados.  
 
-### 🏁 Sprint 1 - Noções Básicas de Teste
-- Introdução à análise de QA
-- O que são testes de software?
-- Como se tornar um analista de QA
-- Desenvolvimento e teste
-- Checklists
-- Relatórios de bugs
-- Casos de teste
-- Atividades práticas
-- **Projeto:** Teste de regressão do Urban Routes
+---
 
-### 🎨 Sprint 2 - Design de Teste
-- Análise de requisitos
-- Design de testes
-- Documentação de testes
-- Atividades práticas
-- **Projeto:** Implementação de testes
+## 🚀 Estrutura do Repositório
 
-### 🌐 Sprint 3 - Teste de Aplicativos Web
-- Como um aplicativo web funciona
-- Teste de interface do usuário
-- Teste entre plataformas e navegadores
-- Teste de design responsivo
-- Design de testes para aplicativos web
-- **Projeto:** Teste de interface web
+📂 **Sprint 1 - Noções Básicas de Teste**  
+📄 Introdução aos testes de software, análise de QA e seu papel no ciclo de desenvolvimento.  
+📌 **Projeto:** **Teste de Regressão do Urban Routes**  
+✔️ Criar e executar um plano de testes para um aplicativo fictício chamado *Urban Routes*.  
+✔️ Desenvolver checklists de testes e documentar os resultados.  
+✔️ Registrar bugs encontrados e criar relatórios detalhados.  
 
-### 🔌 Sprint 4 - Teste de API
-- Introdução à API
-- Testes de API com Postman
-- Design de testes para APIs
-- **Projeto:** Testes de API
+📂 **Sprint 2 - Design de Teste**  
+📄 Foco no planejamento e documentação de testes, incluindo análise de requisitos e estratégias de cobertura.  
+📌 **Projeto:** **Implementação de Testes**  
+✔️ Criar casos de teste para diferentes cenários de um aplicativo.  
+✔️ Documentar o plano de testes utilizando técnicas como Partição de Equivalência e Análise de Valores Limites.  
 
-### 🗄️ Sprint 5 - Noções Básicas de Banco de Dados
-- Linha de comando e sistemas operacionais
-- Noções básicas de SQL
-- Testes de banco de dados
-- **Projeto Final:** Aplicação prática dos conceitos aprendidos
-  - **Tarefa 1:** Para testar a teoria
-  - **Tarefa 2:** Testes no aplicativo web Urban Scooter
-  - **Tarefa 3:** Testes na API do aplicativo Urban Scooter
+📂 **Sprint 3 - Teste de Aplicações Web**  
+📄 Técnicas de teste de interface do usuário (UI), compatibilidade entre navegadores e design responsivo.  
+📌 **Projeto:** **Teste de Interface Web**  
+✔️ Testar a interface do *Urban Routes* em diferentes navegadores e dispositivos.  
+✔️ Validar usabilidade, layout e acessibilidade do sistema.  
+✔️ Registrar defeitos encontrados e sugerir melhorias.  
+
+📂 **Sprint 4 - Teste de API**  
+📄 Introdução aos testes de API, uso do Postman e criação de requisições HTTP para validação de endpoints.  
+📌 **Projeto:** **Testes de API no Postman**  
+✔️ Criar e executar testes automatizados para as APIs do *Urban Scooter*.  
+✔️ Verificar respostas, códigos de status HTTP e validação de dados.  
+✔️ Documentar os resultados dos testes.  
+
+📂 **Sprint 5 - Noções Básicas de Banco de Dados**  
+📄 Introdução ao SQL, comandos básicos e testes de integridade de dados.  
+📌 **Projeto Final:** **Testes no Banco de Dados do Urban Scooter**  
+✔️ Escrever queries SQL para validar dados armazenados no banco do *Urban Scooter*.  
+✔️ Criar testes para verificar integridade dos dados e performance das consultas.  
+✔️ Apresentar um relatório final consolidando os aprendizados.  
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
-- **Postman** 📨 - Testes de API
-- **SQL** 🗃️ - Consultas em banco de dados
-- **JIRA/Trello** 📌 - Gerenciamento de tarefas
-- **Excel/Google Sheets** 📊 - Casos de teste e relatórios de bugs
+- **Postman** 📨 - Testes de API  
+- **SQL** 🗃️ - Consultas em banco de dados  
+- **JIRA/Trello** 📌 - Gerenciamento de tarefas e rastreamento de bugs  
+- **Excel/Google Sheets** 📊 - Casos de teste e relatórios de execução  
+
+---
+
+## 🔗 Como Usar Este Repositório
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/biancaalves27/Analista-QA.git]
+   cd QA-Manual-Projetos
+
